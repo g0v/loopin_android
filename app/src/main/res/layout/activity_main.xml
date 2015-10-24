@@ -36,4 +36,38 @@
         android:textSize="25sp"
         android:layout_margin="15sp"
         />
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="震動係數"
+        android:id="@+id/TextView04"
+        android:textSize="25sp"
+        android:layout_margin="15sp"
+        />
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/longitude_label"
+        android:textSize="25sp"
+        android:layout_margin="15sp"
+        />
+    <TextView  android:id="@+id/longitude"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+
+        />
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/latitude_label"
+        android:textSize="25sp"
+        android:layout_margin="15sp"
+        />
+    <TextView  android:id="@+id/latitude"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text=""
+
+        />
 </LinearLayout>

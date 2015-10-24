@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">test</string>
+    <string name="GPS">GPS/網路定位</string>
+    <string name="longitude_label">經度：</string>
+    <string name="latitude_label">緯度：</string>
 </resources>
